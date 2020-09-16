@@ -1,4 +1,5 @@
-mport sys
+#!/usr/bin/python
+import sys
 import fileinput
 import csv
 import pandas as pd
